@@ -90,7 +90,6 @@ pub fn format_line(line: &str, no: usize, range: Range<usize>) -> String {
 
 #[cfg(test)]
 mod tests {
-
     use super::*;
 
     #[test]
